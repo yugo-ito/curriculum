@@ -1,0 +1,15 @@
+現状
+●初期
+ping PC0 ⇨ PC1 OK
+ブロードキャスト　PC1 ⇨　PC1 OK
+
+G0/1 Vlan 10 trunkモード
+G0/2 Vlan 1
+
+
+作業
+・PC0のF0/1 Vlan10を通す
+・PC1のF0/1 Vlan10を通す
+・trunkモードをaccessモードに変更
+
+作業後にpingが通るか確認
