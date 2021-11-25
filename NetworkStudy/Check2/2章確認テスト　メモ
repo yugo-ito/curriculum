@@ -11,5 +11,6 @@ G0/2 Vlan 1
 ・PC0のF0/1 Vlan10を通す
 ・PC1のF0/1 Vlan10を通す
 ・trunkモードをaccessモードに変更
+・SRPをVlan10に変更
 
 作業後にpingが通るか確認
